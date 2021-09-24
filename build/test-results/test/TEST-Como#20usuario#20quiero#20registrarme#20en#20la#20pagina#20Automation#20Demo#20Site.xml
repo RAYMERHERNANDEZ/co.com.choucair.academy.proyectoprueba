@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Como usuario quiero registrarme en la pagina Automation Demo Site" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-24T17:46:42" hostname="LAPTOP-REVS1NCI" time="239.252">
+  <properties/>
+  <testcase name="Registrarse en la pagina de Automation Demo Site" classname="Como usuario quiero registrarme en la pagina Automation Demo Site" time="239.252"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[sept. 24, 2021 12:46:45 P. M. org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 93.0.4577.63 (ff5c0da2ec0adeaed5550e6c7e98417dac77d98a-refs/branch-heads/4577@{#1135}) on port 36823
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1632505669.518][WARNING]: This version of ChromeDriver has not been tested with Chrome version 94.
+sept. 24, 2021 12:48:20 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
